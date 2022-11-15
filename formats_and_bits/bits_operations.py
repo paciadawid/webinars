@@ -7,6 +7,7 @@ bit_and = a_int & b_int
 bit_or = a_int | b_int
 bit_xor = a_int ^ b_int
 bit_not = ~a_int
+bit_shift_left = a_int << 2
 print(bit_and)
 
 
